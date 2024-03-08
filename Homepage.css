@@ -1,0 +1,97 @@
+
+        /* General styles */
+        body {
+            font-family: 'Roboto', sans-serif;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        /* Header styling */
+        .header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+        }
+
+        .logo {
+            font-size: 32px;
+            font-weight: 700;
+        }
+
+        /* Signup section styling */
+        .signup-section {
+            background-color: #f8f8f8;
+            padding: 30px;
+        }
+
+        .signup-content {
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        .signup-title {
+            font-size: 36px;
+            font-weight: 700;
+            margin-bottom: 20px;
+            font-family: 'Montserrat', sans-serif;
+            text-align: center;
+        }
+
+        .signup-text {
+            font-size: 18px;
+            line-height: 1.6;
+            margin-bottom: 30px;
+            font-family: 'Roboto', sans-serif;
+            text-align: center;
+        }
+
+        .signup-form {
+            max-width: 400px;
+            margin: 0 auto;
+        }
+
+        .signup-form input {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+            font-size: 16px;
+        }
+
+        .btn-signup {
+            width: 100%;
+            padding: 10px;
+            background-color: #ff4500;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            font-size: 16px;
+            cursor: pointer;
+            margin-bottom: 10px;
+            font-weight: bold;
+        }
+
+        .btn-signup:hover {
+            background-color: #cc3700;
+        }
+
+        .signup-note {
+            font-size: 14px;
+            margin-top: 10px;
+            text-align: center;
+        }
+
+        /* Footer styling */
+        .footer {
+            background-color: #333;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+        }
+
+        .footer-note {
+            font-size: 12px;
+        }

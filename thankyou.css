@@ -1,0 +1,62 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #f8f8f8; /* Hintergrundfarbe des Körpers */
+    position: relative;
+    min-height: 100vh;
+}
+
+.header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.logo {
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.thankyou-section {
+    text-align: center;
+    padding: 50px 0;
+}
+
+.thankyou-title {
+    font-size: 36px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.thankyou-text {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 30px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.checkmark {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.checkmark img {
+    width: 100px;
+}
+
+.checkmark-text {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
